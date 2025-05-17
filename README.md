@@ -105,6 +105,9 @@ streamlit run app.py
 ## Author
 
 Ajibade Akindeji Qudus
-	•	GitHub: AjibadeAkindeji
-	•	Streamlit App: Obesity Prediction
-	•	Email: [ajibade_1@icloud.com]
+	
+ •	GitHub: AjibadeAkindeji
+	
+ •	Streamlit App: Obesity Prediction
+ 
+ •	Email[ajibade_1@icloud.com]
