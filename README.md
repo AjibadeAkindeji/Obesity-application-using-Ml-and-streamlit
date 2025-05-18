@@ -86,10 +86,10 @@ streamlit run app.py
 <pre>
 ```
 ├── app.py                  # Streamlit frontend
-├── obesity_model.pkl       # Trained ML model
+├── model.pkl               # Trained ML model
 ├── scaler.pkl              # Standard scaler
 ├── obesity_dataset.csv     # Raw dataset
-├── EDA_notebook.ipynb      # Data analysis and model training
+├── data.ipynb              # Data analysis and model training
 ├── requirements.txt        # Project dependencies
 └── README.md               # Project documentation
 ```
